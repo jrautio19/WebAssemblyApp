@@ -3,7 +3,6 @@
 
 ### `_config.yml`
 
-title: Awesome WebAssembly
 description: A GitHub Pages site using Markdown to showcase WASM app
 theme: minima
 markdown: kramdown
