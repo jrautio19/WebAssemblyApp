@@ -1,8 +1,4 @@
-
----
-
-### `_config.yml`
-
+title: Welcome to My GitHub Pages Site
 description: A GitHub Pages site using Markdown to showcase WASM app
 theme: jekyll-theme-cayman
 markdown: kramdown
