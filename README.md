@@ -1,4 +1,8 @@
-# Welcome to My GitHub Pages Site
+---
+layout: default
+title: Welcome to My GitHub Pages Site
+---
+
 
 > This is a static website created by **GitHub Flavored Markdown** and enhanced with **WebAssembly (WASM)** application.
 
