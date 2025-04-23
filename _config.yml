@@ -4,5 +4,5 @@
 ### `_config.yml`
 
 description: A GitHub Pages site using Markdown to showcase WASM app
-theme: minima
+theme: jekyll-theme-cayman
 markdown: kramdown
